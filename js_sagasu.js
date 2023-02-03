@@ -31,7 +31,8 @@ function butotnClick(){
     ['https://www.google.com/?hl=ja', 'google', 0],
     ['https://ja-jp.facebook.com/', 'facebook', 0],
     ['https://ja-jp.facebook.com/', 'amazon', 0],
-    ['https://ja-jp.facebook.com/', 'microsoft', 0]
+    ['https://ja-jp.facebook.com/', 'microsoft', 0],
+    // ['<URL>', '表示される部分', 0],
   ];
 
   const str = nameText.value;
